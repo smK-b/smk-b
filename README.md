@@ -3,7 +3,7 @@ Na visão geral abaixo você encontrará minhas experiências de trabalho mais r
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_200_200/0/1657054972290?e=1681948800&v=beta&t=COAeAxmPimgYq9K4CcUKFhh8POA6LZLYjTrEjSmIwCY"/>](https://www.ibm.com/br-pt)
 
-**Mobile Software Engineer** \
+**Mobile Developer** \
 [**IBM**](https://www.ibm.com/br-pt) • Full-time \
 Linguagens & Tecnologias: `Java`, `Kotlin`, `Swift`, `Flutter`, `AWS`\
 Projetos em destaque: [APP Itaú](https://www.itau.com.br/canais-itau/aplicativo-itau), [APP Itaú Cartões](https://www.itau.com.br/canais-itau/aplicativo-itau)
