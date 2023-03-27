@@ -1,29 +1,19 @@
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minhas experiências de trabalho mais recentes:
+## ✌ Olá, meu nome é <strong>Samuel Barbosa!</strong>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_200_200/0/1657054972290?e=1681948800&v=beta&t=COAeAxmPimgYq9K4CcUKFhh8POA6LZLYjTrEjSmIwCY"/>](https://www.ibm.com/br-pt)
+🔭 Estou trabalhando como Android Developer na <a href="https://www.ticketlog.com.br/">Ticket Log</a>.
 
-**Mobile Developer** \
-[**IBM**](https://www.ibm.com/br-pt) • Full-time \
-Linguagens & Tecnologias: `Java`, `Kotlin`, `Swift`, `Flutter`, `AWS`\
-Projetos em destaque: [APP Itaú](https://www.itau.com.br/canais-itau/aplicativo-itau), [APP Itaú Cartões](https://www.itau.com.br/canais-itau/aplicativo-itau)
-<br/>
+💬 Podem entrar em contato comigo via meu <a href="https://www.linkedin.com/in/barbosa-samuel97/">LinkedIn</a>.
 
-[<img align="left" height="94px" width="94px" alt="F1rst" src="https://media.licdn.com/dms/image/C4D0BAQEJSRbWLLqw0w/company-logo_200_200/0/1656472357901?e=1681948800&v=beta&t=-_3fMCjZlde3Gs2uZCbLRg6wWkiDmGEssz-kPfcnEdA"/>](https://www.linkedin.com/company/f1rsttecnologia/?originalSubdomain=br)
+----
 
-**IT Developer +** \
-[**F1RST Tecnologia**](https://www.linkedin.com/company/f1rsttecnologia/?originalSubdomain=br) • Full-time \
-Linguagens & Tecnologias: `Java`, `Quarkus`, `AWS`, `Node.js`\
-Projetos em destaque: [Odin](https://www.linkedin.com/search/results/content/?keywords=odin&sid=bpd&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6954917094492659712%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse))
-<br/>
+## 🚀 Minhas Skills
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-[<img align="left" height="94px" width="94px" alt="Atos" src="https://media.licdn.com/dms/image/C4D0BAQEA-7akfn4FzA/company-logo_200_200/0/1638575002083?e=1681948800&v=beta&t=i7O5W6_yvChwgHLOCG9Bs1DztRGqNZoHOhV5B8e6dms"/>](https://atos.net/pt-br/brasil-atos)
+---
 
-**System Developer** \
-[**Atos**](https://atos.net/pt-br/brasil-atos) • Full-time \
-Linguagens & Tecnologias: `Java`, `Spring Boot`, `Angular`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [Volkswagen do Brasil](https://www.vw.com.br/pt.html)
-<br/>
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/barbosa-samuel97/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+## 🏆 GitHub Stats
+<div align="center">
+  <a href="https://github.com/samuel-barbosa97">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smK-b&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smK-b&layout=compact&langs_count=7&theme=dark"/>
+</div>
